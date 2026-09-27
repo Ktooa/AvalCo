@@ -34,7 +34,7 @@ Debate, analisis y consenso entre todos los miembros del grupo.
 
 > Nombre del proyecto y una frase que describa el problema. Extensión: breve.
 
-AvalCop (nombre temporal), Sera o no sera falsificada. Al momento de coprar una bebida alcholica de alto valor, uno siempre tiene la duda de su vericidad y su inocuidad, generando mala imagen para la marca como para el distribuidor donde se obtuvo el producto.
+AvalCo (nombre temporal), Sera o no sera falsificada. Al momento de coprar una bebida alcholica de alto valor, uno siempre tiene la duda de su vericidad y su inocuidad, generando mala imagen para la marca como para el distribuidor donde se obtuvo el producto.
 
 ### Equipo y roles
 
