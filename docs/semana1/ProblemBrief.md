@@ -6,25 +6,25 @@
 
 > El problema ganador en una frase, sin mencionar blockchain, y quién lo propuso.
 
-Escriban aquí su respuesta.
+Gran cantidad de bebidas adulteradas o contrabadeadas. Por parte de Jhonathan Acevedo.
 
 ### Por qué elegimos este
 
 > Qué inclinó al equipo por este problema frente a los demás, según los criterios de la Sesión 1.
 
-Escriban aquí su respuesta.
+Se realizo una investigacion y se ve un ejemplo en accion pero consideramos se puede mejorar su implementacion en el mercado.
 
 ### Propuestas descartadas
 
 > Cada propuesta considerada, quién la propuso y el motivo del descarte.
 
-Escriban aquí su respuesta.
+Productos de calzado falsificados. Jhonathan Aceedo, no se profundizo en el metodo de implementacion. 
 
 ### Cómo tomamos la decisión
 
 > Cómo llegó el equipo al acuerdo: votación, consenso tras debate u otro.
 
-Escriban aquí su respuesta.
+Debate, analisis y consenso entre todos los miembros del grupo.
 
 ---
 
@@ -34,13 +34,13 @@ Escriban aquí su respuesta.
 
 > Nombre del proyecto y una frase que describa el problema. Extensión: breve.
 
-Escriban aquí su respuesta.
+AvalCop (nombre temporal), Sera o no sera falsificada. Al momento de coprar una bebida alcholica de alto valor, uno siempre tiene la duda de su vericidad y su inocuidad, generando mala imagen para la marca como para el distribuidor donde se obtuvo el producto.
 
 ### Equipo y roles
 
 > Integrantes con su usuario de GitHub, rol asumido por cada persona, responsable de las entregas y canal de coordinación interna. Extensión: breve.
 
-Escriban aquí su respuesta.
+Jhonathan Acevedo (Katooa) Desarrollo, diseño y control de Apex. Se coordina mediante Discord.
 
 ### Problema y evidencia
 
