@@ -46,13 +46,15 @@ Jhonathan Acevedo (Katooa) Desarrollo, diseño y control de Apex. Se coordina me
 
 > Enunciado del problema en una frase, sin mencionar blockchain. Contexto, frecuencia y alcance. Evidencia mínima de que el problema existe: observación directa, experiencia propia, conversaciones o fuentes consultadas, con enlace o cita cuando aplique. Extensión: 150–300 palabras.
 
-Escriban aquí su respuesta.
+Gran cantidad de bebidas adulteradas o contrabadeadas. La presencia de bebidas alcohólicas adulteradas o contrabandeadas son un problema tanto de salud para el consumidor final, como económico para las productoras como la gobernacion de los diversos departamentos de la nacion, generando perdidas aproximadas de US $1500 millones en recaudo de impuestos.
+
+Evidencia: https://repository.universidadean.edu.co/server/api/core/bitstreams/a7a4e755-e190-4744-b7e8-767ac1061f49/content
 
 ### Usuario y actores
 
 > Quién sufre el problema y qué necesita resolver. Cómo lo resuelve hoy y qué le cuesta en dinero, tiempo o esfuerzo. Demás actores que intervienen en el flujo, con el papel que cumple cada uno. Extensión: 150–300 palabras.
 
-Escriban aquí su respuesta.
+El problema es controlado por el gobierno nacional (vigila la importacion, administracion de aranceles e IVA), los gobiernos departamentales (recaudacion de impuestos por consumo de alcohol, maneja la policia para auditar los locales fisicos, administran el estampillado para la trazabilidad), las autoridades sanitarias y proteccion al consumidor (vigilancia sanitaria y regulan la competencia leal), y el sector privado (encargados de asumir e implementar las medidas en el producto). El problema principal identficado donde se desea implementar el uso de blockchain es la falsificacion del codigo Qr con el que buscan validar la veracidad del producto, en promedio el costo de esta estampilla es de $500 COP por botella.
 
 ### Flujo actual de valor
 
