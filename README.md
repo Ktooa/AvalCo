@@ -1,2 +1,2 @@
-# ProyectoBase
-Plantilla base de BB101. Haz fork para arrancar el proyecto de tu equipo, incluye la estructura semana a semana de cada entregable.
+# AvalCo
+Sistema con tecnología Blockchain encargada de garantizar la veracidad y procedencia de los productos con mayor mercado ilegal en Colombia. Centrado al comienzo en Bebidas Alcohólicas, se busca expandir los productos que se puedan identificar como unicos e irrepetibles.

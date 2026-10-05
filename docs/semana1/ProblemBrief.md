@@ -95,11 +95,11 @@ Los métodos actuales para la lucha contra el contrabando son:
 
 Paso 1: Origen (Producción Nacional o Importación)
     
-    -El Activo: El licor sale de las fábricas nacionales (ej. destilerías departamentales) o llega a los puertos colombianos (si es importado).
+    El licor sale de las fábricas nacionales (ej. destilerías departamentales) o llega a los puertos colombianos (si es importado).
 
-    -La Información: Nace el historial digital del producto. El importador o productor registra el lote ante el INVIMA para la obtención del registro sanitario. Paralelamente, se ingresa la información de la mercancía en el sistema aduanero de la DIAN para emitir la Declaración de Importación.
+    Nace el historial digital del producto. El importador o productor registra el lote ante el INVIMA para la obtención del registro sanitario. Paralelamente, se ingresa la información de la mercancía en el sistema aduanero de la DIAN para emitir la Declaración de Importación.
 
-    -El Dinero: El importador paga los aranceles correspondientes en los bancos autorizados por la DIAN para la nacionalización del producto.
+    El importador paga los aranceles correspondientes en los bancos autorizados por la DIAN para la nacionalización del producto.
 
 Paso 2: El Eslabón de la Estampilla (Legalización Departamental)
 
@@ -137,22 +137,29 @@ Paso 5: El Destino Final (Consumidor)
 
 > Puntos concretos donde el flujo falla, se encarece o se demora. Cada fricción indica en qué paso ocurre, qué la causa y a quién afecta. Extensión: 150–300 palabras.
 
-Escriban aquí su respuesta.
+Paso 1: El registro sanitario ante el INVIMA y la homologación de etiquetas para marcas importadas representa una barrera de entrada crítica. Este retraso prolongado interrumpe la planificación comercial y deja el mercado desabastecido de ciertas referencias.
+
+Paso 2: Aunque SYCTrace centralizan datos, cada departamento de Colombia opera como un "micro-estado" tributario con tarifas de Impuesto al Consumo (ICO) y costos de estampillas independientes. El proceso manual de etiquetado físico botella por botella en los almacenes aduaneros o bodegas departamentales ralentiza el tránsito de la mercancía.
+
+Paso 3: El rastreo de la Guía de Movilización adolece de falta de integración. Muchas veces las autoridades en vía no cuentan con conectividad a internet para verificar los códigos QR o las guías digitales, lo que resulta en retenciones innecesarias de camiones legales en puestos de control.
+
+Paso 4: Cerca del 60% de las MiPymes encargadas de la comercialización y distribución local de licores en el país registran fallas críticas en sus procesos administrativos, conectividad tecnológica y gestión de inventarios. El eslabón final de la cadena (el desecho de la botella) es el más débil. Al no existir un incentivo económico real o un sistema de logística inversa eficiente para recolectar y triturar los envases de vidrio, las botellas vacías e intactas terminan vendiéndose en el mercado informal de reciclaje, alimentando directamente a las mafias de la adulteración.
 
 ### Oportunidad e hipótesis
 
 > Oportunidad priorizada entre las fricciones identificadas, con el motivo de la elección. Hipótesis inicial de por qué blockchain podría mejorar ese punto, expresada en términos de qué cambiaría para el usuario. Extensión: 150–300 palabras.
 
-Escriban aquí su respuesta.
+En los pasos [2,3 y 4] yace el motivo por el cual escogimos esta situación como apto para la implementación de la tecnologóa de blockchain, con este sistema, se puede identificar con un codigo unico a cada botella producida por la compañia, esto permite que no se tenga que colocar manual una estampilla por botella, agilizando el inicio del transporte de los mismos, como todos tienen los identificativos, cuando se separen por departamento solo se debe compartir las hash que son aptos para venderse en cada regin, como tenemos ese dato de ante mano, se puede entregar una lista con los hash de las botellas que deben ser auditadas por al alcabalas agilizando el proceso del transporte y debido a que la numeración no se puede repetir, el problema del reciclado de botellas no puede existir debido a que el producto entregado al cliente no puede volver a circular con el mismo numero sin que sea identificado como ya usada.
 
 ### Criterio de pertinencia
 
 > Justificación de por qué el caso requiere un registro distribuido y no una base de datos tradicional o una integración entre sistemas existentes. Debe apoyarse en al menos uno de los criterios de la Sesión 1: varias partes que no confían entre sí necesitan compartir un mismo registro, el histórico no puede alterarse, o se elimina un intermediario que hoy concentra la confianza. Extensión: 150–300 palabras.
 
-Escriban aquí su respuesta.
+En este caso, actualmente se usa una base de datos tradicional con el sistema de lote y QR que se usa en las botellas, pero con el sistema de registro distribuido, tendremos seguridad de la no alteración de la base sin que todo el sistema se entere. También se aplica la no confianza entre partes ya que las botellas de los productores, no se usaran en su contra solo porque no le da una retribucion a los dueños de locales destruirlas y al quitar el sistma SYCTrace, no se dependera de un unico ente (aunque sean el estado) encargado de garantizar su procedencia.
 
 ### Supuestos y riesgos
 
 > Dos o tres supuestos que tendrían que ser ciertos para que la hipótesis funcione, y qué podría invalidarla. Extensión: 150–300 palabras.
 
-Escriban aquí su respuesta.
+1ro_Las embotelladoras deben aceptar la implementacion del codigo directo a la botella para que todo el proceso inicie, de lo contrario no se podria continuar debido a que seria el mismo gaste o superior agregarlo como un adicional.
+2do_El estado debe aceptar dejar la implementacion del QR y aceptar solo la auditoria de los hash que son asignados por los distribuidores a cada departamento, con su negativa por querer contralo no se podria proceder con el sistema.
